@@ -2,5 +2,5 @@
 - Implemented CNN model to classify arecanut into Low, Medium, and High Quality categories, based on features like color, size, and texture. 
 - Improved interpretability and transparency by integrating HiresCAM and RespondCAM techniques, offering clear insights into the model's decision-making process.
 
-  
-https://github.com/SumanRBangera/Arecanut-Quality-Prediction-CNN-React-UI/blob/main/assests/1728757108390.jfif
+## Architecture Diagram
+![arch](https://github.com/user-attachments/assets/fe8e0148-2246-4185-824d-5270bff64497)
