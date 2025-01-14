@@ -3,3 +3,4 @@
 - Improved interpretability and transparency by integrating HiresCAM and RespondCAM techniques, offering clear insights into the model's decision-making process.
 
   
+https://github.com/SumanRBangera/Arecanut-Quality-Prediction-CNN-React-UI/blob/main/assests/1728757108390.jfif
